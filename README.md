@@ -1,0 +1,1 @@
+Este proyecto desarrolla una aplicacion web con el framework DJANGO del lenguaje python base de datos MariaDB
