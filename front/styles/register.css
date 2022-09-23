@@ -1,0 +1,100 @@
+body {
+    background: #F3F2F2;
+}
+
+#logo {
+    width: 300px;
+    height: 85px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    margin-top: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    color: #0C9DE9;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: #716a6a;
+}
+
+form {
+    margin-left: 400px;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    color: #0C9DE9;
+}
+
+input {
+    padding-right: 2px;
+    padding-left: 2px;
+    height: 30px;
+    width: 540px;
+    border: none;
+}
+
+#tipo {
+    width: 125px;
+    margin-right: 50px;
+}
+
+#num-documento {
+    width: 358px;
+}
+
+#celular {
+    width: 125px;
+    margin-right: 50px;
+}
+
+#fijo {
+    width: 358px;
+}
+
+#numero-doc {
+    margin-left: 60px;
+}
+
+#tel-fijo {
+    margin-left: 137px;
+}
+
+#condiciones {
+    width: 20px;
+    height: 20px;
+    border: none;
+}
+
+#terms {
+    color: #716a6a;
+    padding-bottom: 2px;
+}
+
+button {
+    margin-top: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+    width: 225px;
+    height: 40px;
+    background-color: #0C9DE9;
+    border: none;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-left: 150px;
+    text-decoration: none;
+    color: #0C9DE9;
+
+}
